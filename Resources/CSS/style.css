@@ -1,0 +1,44 @@
+html {
+  font-family: Helvetica;
+  text-align: center;
+  font-weight: bold;
+}
+
+h1 {
+  font-size: 70px;
+}
+
+#header, .second {
+  background-image: url(./Resources/Images/building.png);
+}
+
+a, #footer, #header {
+  color: white;
+}
+
+h3 {
+  font-size: 23px;
+}
+
+p {
+  font-size: 14px;
+  font-weight: normal;
+}
+
+#ourprocess {
+  font-size: 32px;
+}
+
+.second {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+#footer {
+  text-align: left;
+  background-color: dimgray;
+}
+
+#copyright {
+  font-size: 11px;
+}
