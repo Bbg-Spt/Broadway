@@ -8,12 +8,16 @@ h1 {
   font-size: 70px;
 }
 
-#header, .second {
-  background-image: url(./Resources/Images/building.png);
+#header, #second {
+  background-image: url("./Resources/Images/building.png");
 }
 
 a, #footer, #header {
   color: white;
+}
+
+a {
+  font-size: 18px;
 }
 
 h3 {
