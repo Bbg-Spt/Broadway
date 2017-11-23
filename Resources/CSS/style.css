@@ -9,10 +9,10 @@ h1 {
 }
 
 #header, #second {
-  background-image: url("./Resources/Images/building.png");
+  background-image: url('../Images/building.png');
 }
 
-a, #footer, #header {
+a, #footer, #header, #second {
   color: white;
 }
 
@@ -33,7 +33,7 @@ p {
   font-size: 32px;
 }
 
-.second {
+#second {
   font-size: 23px;
   font-weight: bold;
 }
